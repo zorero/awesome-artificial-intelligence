@@ -1,5 +1,7 @@
 # Awesome Artificial Intelligence
 
+![Collection: Awesome List](https://img.shields.io/badge/Collection-Awesome%20List-6F42C1) ![AI: Generative AI](https://img.shields.io/badge/AI-Generative%20AI-6D5DF6) ![Focus: Agents %26 LLMs](https://img.shields.io/badge/Focus-Agents%20%26%20LLMs-0F766E)
+
 An opinionated, actively maintained collection of resources for software developers learning to build and ship generative AI and agentic systems.
 
 ![Artificial intelligence](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
